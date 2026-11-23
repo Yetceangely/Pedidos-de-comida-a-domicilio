@@ -123,7 +123,9 @@ erDiagram
 
 ## 9. Reto técnico distintivo
 
-El que te tocó en el catálogo y cómo piensas resolverlo.
+Cola de prioridad de pedidos más seguimiento en vivo con SSE,implementaré una cola con prioridad en Redis para ordenar los pedidos según su urgencia. Para el seguimiento en vivo, mantendré una conexión abierta con Server Sent Events SSE, enviando notificaciones automáticas del cambio de estado al cliente.
+
 
 ## 10. Riesgos y preguntas abiertas
 
+Un riesgo principal es la desconexión de las conexiones SSE, lo que causaría pérdida de actualizaciones en tiempo real. ¿cómo manejaremos la reconexión automática sin sobrecargar el servidor?
