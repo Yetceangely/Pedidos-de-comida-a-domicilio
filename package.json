@@ -1,7 +1,7 @@
 {
   "name": "pedidosya",
   "version": "0.1.0",
-  "description": "Proyecto de Lenguaje de Programación ·Cola de prioridad de pedidos + seguimiento en vivo con SSE ",
+  "description": "Cola de prioridad de pedidos + seguimiento en vivo con SSE ",
   "private": true,
   "type": "module",
   "engines": {
