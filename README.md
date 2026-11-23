@@ -1,7 +1,7 @@
-# Mi producto
+Pedidos de comida a domicilio
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+pedidos de comida a domicilio cola de prioridad de pedidos más seguimiento en vivo con SSE 
+Proyecto n.º 5 del catálogo · Sitio de referencia: Pedidos ya · [PRD](docs/PRD.md) · URL publicada: __
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
