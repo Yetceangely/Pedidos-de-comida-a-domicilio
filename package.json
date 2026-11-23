@@ -1,7 +1,7 @@
 {
-  "name": "mi-producto",
+  "name": "pedidosya",
   "version": "0.1.0",
-  "description": "Proyecto de Lenguaje de Programación · cambia este texto por la descripción de tu producto",
+  "description": "Proyecto de Lenguaje de Programación ·Cola de prioridad de pedidos + seguimiento en vivo con SSE ",
   "private": true,
   "type": "module",
   "engines": {
