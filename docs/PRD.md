@@ -8,7 +8,7 @@
 | Alumno |Yetceangely| 
 | Proyecto n.º |5|
 | Sitio de referencia |Pedidos ya|
-| Compañero revisor |sin asignar |
+| Compañero revisor |dashiell |
 | URL desplegada | (se completa en el Sprint 5) |
 
 ## 1. Problema
